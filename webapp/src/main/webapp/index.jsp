@@ -46,11 +46,11 @@
 <body>
 
     <div class="birthday-card">
-        <h3>HAPPY BIRTHDAY ENIYAN 🎂 🎂 🎂</h3>
+        <h3>HAPPY BIRTHDAY ENIYAN 🎂 🎂 🥳 🎂</h3>
         
         <div class="image-container">
             <!-- Change "image.jpg" to your actual image filename -->
-            <img src="image.jpg" alt="Eniyan's Birthday Image">
+            <img src="image.jpg" alt="Eniyan's Image">
         </div>
     </div>
 
