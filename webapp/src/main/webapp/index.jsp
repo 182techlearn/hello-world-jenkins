@@ -3,7 +3,7 @@
 <html>
 	<head>
 		    <meta charset="UTF-8">
-		        <title>Happy Birthday Eniyan</title>
+		        <title>Happy Birthday Eniyan I LOVE YOU KUTTY PAIYA💕</title>
 			    <style>
         body {
 		            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -46,7 +46,7 @@
 	<body>
 
 		    <div class="birthday-card">
-			            <h3> Wish you many more happy returns of the fay, HAPPY BIRTHDAY ENIYAN keep smiling ððððð/h3>
+			            <h3> Wish you many more happy returns of the fay, HAPPY BIRTHDAY ENIYAN keep smiling 😊/h3>
 
 					            <div class="image-container">
 							                <!-- Change "image.jpg" to your actual image filename -->
