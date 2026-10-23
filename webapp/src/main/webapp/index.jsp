@@ -49,7 +49,7 @@
 			            <h3> Wish you many more happy returns of the day, I LOVE YOU KUTTY PAIYA 💕 
 HAPPY BIRTHDAY ENIYAN keep smiling 😊 😁 😊
 
-🐅🐠🦐🦁🐟🎊🥳🎈🤔🎟️😸🎉😭🌃👌🏼🫠🤪🫪🤤😛🥰
+🐅🐠🦐🦁🐟🎊🥳🎈🤔🎟️😸🎉😭🌃👌🏼🫠🤪🫪🤤😛🥰buddy
 
 /h3>
 
