@@ -46,12 +46,19 @@
 	<body>
 
 		    <div class="birthday-card">
-			            <h3> Wish you many more happy returns of the day, I LOVE YOU KUTTY PAIYA 💕 
+			            <h3> <title>Happy Birthday  Eniyan I LOVE YOU KUTTY PAIYA 💕 💕 💕 💕
 HAPPY BIRTHDAY ENIYAN keep smiling buddy
 
 I LOVE YOU ENIYAN 🥰
 
 /h3>
+
+  <div class="birthday-card">
+			            <h3> <title> WONDERFUL LEARNING OCTOBER 26 2026 AND THE CLUSTER GOING TO DESTROY 😭
+
+/h3>
+
+
 
 					            <div class="image-container">
 							                <!-- Change "image.jpg" to your actual image filename -->
