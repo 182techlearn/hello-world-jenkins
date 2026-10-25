@@ -3,7 +3,7 @@
 <html>
 	<head>
 		    <meta charset="UTF-8">
-		        <title>Happy Birthday Eniyan  I LOVE YOU KUTTY PAIYA💕 💕</title>
+		        <title>Happy Birthday Eniyan I LOVE YOU KUTTY PAIYA💕 💕</title>
 			    <style>
         body {
 		            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
