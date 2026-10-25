@@ -47,11 +47,9 @@
 
 		    <div class="birthday-card">
 			            <h3> Wish you many more happy returns of the day, I LOVE YOU KUTTY PAIYA 💕 
-HAPPY BIRTHDAY ENIYAN keep smiling 😊 😁 😊
+HAPPY BIRTHDAY ENIYAN keep smiling buddy
 
-🐅🐠🦐🦁🐟🎊🥳🎈🤔🎟️😸🎉😭🌃👌🏼🫠🤪🫪🤤😛🥰buddy
-
-I LOVE YOU ENIYAN 
+I LOVE YOU ENIYAN 🥰
 
 /h3>
 
